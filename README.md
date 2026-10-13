@@ -10,6 +10,9 @@
 * **Data Engineering & ETL:** Data Cleaning, Data Modeling, Normalization
 * **Core CS & Databases:** SQL, Data Structures & Algorithms
 
+* 🏆 **Certifications & Credentials**
+* **Data Analytics Essentials** — Cisco Networking Academy / Covenant University (Oct 2026)
+
 ---
 
 ### 📌 Featured Portfolio Projects

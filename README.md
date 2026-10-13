@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Ottoh 👋
 
-🎓 **Computer Science Student & Data Analyst**  
+### 🎓 **Computer Science Student & Data Analyst**  
 💡 Passionate about transforming raw data into actionable business intelligence, interactive dashboards, and optimized reporting pipelines.
 
 ---

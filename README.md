@@ -177,7 +177,7 @@ A credit risk business intelligence dashboard examining loan applicants, default
 ---
 
 ### 8. Interactive Financial Performance Suite
-**Platform:** Financial Analytics Dashboard
+**Platform:** Microsoft Power BI
 
 An interactive financial reporting project developed to evaluate sales performance, profitability, and business performance across different segments.
 

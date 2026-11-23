@@ -156,6 +156,8 @@ An interactive credit risk dashboard analyzing applicant characteristics, defaul
 
 **Key Skills:** Excel, PivotTables, Credit Risk Analysis, Data Visualization
 
+[View Credit Risk Analytics Repository](https://github.com/Emmyottoh/Credit-Risk-Prime-Analytics)
+
 ---
 
 ### 7. Executive Credit Risk Dashboard

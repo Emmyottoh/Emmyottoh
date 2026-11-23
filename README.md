@@ -133,6 +133,8 @@ An interactive property management dashboard examining rental performance, prope
 
 **Key Skills:** Excel, PivotTables, KPI Reporting, Property Analytics
 
+[View Property Management Analytics Repository](https://github.com/Emmyottoh/Property-Management-Analytics)
+
 ---
 
 ### 6. Credit Risk Analytics Dashboard

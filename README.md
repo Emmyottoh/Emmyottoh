@@ -178,7 +178,8 @@ A credit risk business intelligence dashboard examining loan applicants, default
 - Applicant characteristics
 - Risk monitoring and reporting
 
-View Executive Credit Risk — Power BI
+[View Executive Credit Risk — Power BI](https://github.com/Emmyottoh/Executive-Credit-Risk-Power-BI)
+
 ---
 
 ### 8. Interactive Financial Performance Suite

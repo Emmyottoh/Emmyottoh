@@ -71,6 +71,8 @@ An educational analytics dashboard examining student examination performance, ho
 
 **Key Skills:** Power BI, Data Analysis, KPI Reporting, Educational Analytics
 
+[View Student Academic Analytics Repository](https://github.com/Emmyottoh/Student-Academic-Performance-Analysis)
+
 ---
 
 ### 3. Hill-Top Global Superstores Analytics

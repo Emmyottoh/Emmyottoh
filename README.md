@@ -178,7 +178,7 @@ A credit risk business intelligence dashboard examining loan applicants, default
 - Applicant characteristics
 - Risk monitoring and reporting
 
-[View Credit Risk Repository](https://github.com/Emmyottoh/Credit-Risk-Prime-Analytics)
+Executive Credit Risk — Power BI on GitHub
 
 ---
 

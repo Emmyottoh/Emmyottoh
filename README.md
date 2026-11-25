@@ -200,7 +200,6 @@ An interactive financial reporting project developed to evaluate sales performan
 
 [View Financial Analytics Repository](https://github.com/Emmyottoh/Financial-Executive-Tableau-Dashboard)
 
-*The financial project's software platform will be confirmed during repository documentation.*
 
 ---
 
